@@ -1,5 +1,6 @@
 # UNI-O.S.-projects
 two examples of MFT &amp; MVT and an example of Memory Management
++ internal and external fragmentation
 
 MFT :
 For a fixed size memory (1000 blocks) and fixed size pages (200 blocks), U need to enter the size of each process.
