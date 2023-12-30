@@ -1,7 +1,7 @@
 ﻿using Microsoft.VisualBasic;
 using System.Runtime.InteropServices;
 
-namespace FragmenationMFT
+namespace FragmenationMVT
 {
     internal class Program
     {
